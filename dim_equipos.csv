@@ -1,0 +1,26 @@
+equipo_id,pozo_id,tipo_equipo,modelo,estado_inicial
+EQ-001,PZ-001,Zaranda Primaria,Derrick Hyperpool,Operativo
+EQ-002,PZ-001,Zaranda Secundaria,Swaco MONGOOSE,Operativo
+EQ-003,PZ-001,Desarenador,Nov Brandt 2 conos,Operativo
+EQ-004,PZ-001,Deslimador,Nov Brandt 16 conos,Operativo
+EQ-005,PZ-001,Centrífuga Decantadora,Derrick 7200,Operativo
+EQ-006,PZ-002,Zaranda Primaria,Derrick Hyperpool,Operativo
+EQ-007,PZ-002,Zaranda Secundaria,Derrick Hyperpool,Operativo
+EQ-008,PZ-002,Desarenador,Nov Brandt 2 conos,Operativo
+EQ-009,PZ-002,Deslimador,Nov Brandt 16 conos,Operativo
+EQ-010,PZ-002,Centrífuga Decantadora,Derrick DE-1000,Operativo
+EQ-011,PZ-003,Zaranda Primaria,Derrick Hyperpool,Operativo
+EQ-012,PZ-003,Zaranda Secundaria,Swaco MONGOOSE,Operativo
+EQ-013,PZ-003,Desarenador,Nov Brandt 2 conos,Operativo
+EQ-014,PZ-003,Deslimador,Derrick 20 conos,Operativo
+EQ-015,PZ-003,Centrífuga Decantadora,Derrick 7200,Operativo
+EQ-016,PZ-004,Zaranda Primaria,Derrick Hyperpool,Operativo
+EQ-017,PZ-004,Zaranda Secundaria,Derrick Hyperpool,Operativo
+EQ-018,PZ-004,Desarenador,Nov Brandt 2 conos,Operativo
+EQ-019,PZ-004,Deslimador,Derrick 20 conos,Operativo
+EQ-020,PZ-004,Centrífuga Decantadora,Derrick 7200,Operativo
+EQ-021,PZ-005,Zaranda Primaria,NOV Brandt KING COBRA,Operativo
+EQ-022,PZ-005,Zaranda Secundaria,Derrick Hyperpool,Operativo
+EQ-023,PZ-005,Desarenador,Derrick 3 conos,Operativo
+EQ-024,PZ-005,Deslimador,Derrick 20 conos,Operativo
+EQ-025,PZ-005,Centrífuga Decantadora,Derrick 7200,Operativo

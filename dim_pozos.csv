@@ -1,0 +1,6 @@
+pozo_id,bloque_operativo,profundidad_objetivo_ft,tipo_perforacion
+PZ-001,Llanos - Paz de Ariporo,12500,Direccional
+PZ-002,Llanos - Paz de Ariporo,13200,Horizontal
+PZ-003,Valle Medio del Magdalena,9500,Vertical
+PZ-004,Cuenca Putumayo,11000,Direccional
+PZ-005,Valle Medio del Magdalena,10500,Vertical
