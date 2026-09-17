@@ -37,7 +37,6 @@ Desarrollo de una aplicación analítica interactiva de 3 niveles:
 
 ## 📊 Vistazo al Dashboard
 
-*(Nota: Reemplaza estas líneas con las rutas reales de tus capturas de pantalla)*
 ![Visión Ejecutiva](1.png)
 ![Causa Raíz](2.png)
 ![Rendimiento de Flota](3.png)
